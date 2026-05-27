@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Nikolaos Gkekas 👋
 
-<!--
-**nikolaosgkekas/nikolaosgkekas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Electrical and Computer Engineering student at the University of Patras, interested in energy systems, optimization, machine learning, and software development.
 
-Here are some ideas to get you started:
+My work focuses on practical engineering problems, including electricity markets, battery optimization, time-series forecasting, and AI applications in healthcare.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+
+- Energy Systems & Power Markets
+- Mathematical Optimization
+- Machine Learning & Deep Learning
+- Time-Series Forecasting
+- Python, MATLAB, and Data Analysis
+
+## Current Focus
+
+- Battery operation optimization in electricity markets
+- Short-term forecasting using deep learning models
+- Building practical software and data-driven engineering projects
+
+## Connect with me
+
+- LinkedIn: www.linkedin.com/in/nikolaos-gkekas
+- Email: nikos.gkekas6@gmail.com
